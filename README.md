@@ -17,8 +17,8 @@ After logging in as an Apoteker, the user is presented with three main options:
 These modules include features such as:
 - Search (Cari)
 - Sorting by Expiration Date (Tanggal Kedaluwarsa)
-- Stock Levels (Stok)
-- Category Filters (Kategori)
+- Sorting by Stock Levels (Stok)
+- Sorting by Category Filters (Kategori)
 ![medtrack](https://github.com/user-attachments/assets/901f7dd6-67c2-4431-9e6b-69799ad875c4)
 
 ### Login As Manager
