@@ -13,6 +13,7 @@ After logging in as an Apoteker, the user is presented with three main options:
    - Pembelian Obat (Medication Purchase)
    - Penjualan Obat (Medication Sale)
 3. Manajemen Supplier (Supplier Management)
+
 These modules include features such as:
 - Search (Cari)
 - Sorting by Expiration Date (Tanggal Kedaluwarsa)
